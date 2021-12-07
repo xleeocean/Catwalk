@@ -42,7 +42,7 @@ To increase performance, we used react-compression, react-lazy-load and Webpack-
 To improve our user experience, we've uesd conditional styling to allow users to toggle between light mode and dark mode.
 
 <img width="500" alt="Dark mode" src="https://user-images.githubusercontent.com/80747028/141721779-399c23e8-193c-4367-9fb1-7acf4f5b2e76.png">
-> UI of dark mode
+ UI of dark mode
 
 
 # Installation
